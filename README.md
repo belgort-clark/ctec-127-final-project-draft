@@ -1,10 +1,12 @@
-# Final Project
+# CTEC 127 Winter 2019 - Final Project
 
 - The final project is due on **Tuesday, March 19th, 2019** by 10:00 AM. 
 - Students will demo their work to the class.
 - Class starts at 10 AM on Tuesday, March 19th.
 
-## Items to be Implemented
+## Items to be Implemented in the Record Manager Code that You Started with Project No. 3
+
+Continue to modify the code base that you started with Project No. 3.
 
 - Add **new table field**
 - Add **new form field** on the **create-record.php** page
@@ -26,7 +28,7 @@
 
 ## Advanced Search Form
 
-### Page name 
+### Page name
 
 - advanced-search.php
 
