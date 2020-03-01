@@ -8,10 +8,10 @@
 
 Continue to modify the code base that you started with Project No. 3.
 
-- Add **new table field**
-- Add **new form field** on the **create-record.php** page
-- Modify **Update Record** form to include new field
-- Add new display table column to the **display-records.php** for new table column
+- Add **new table field** graduation_date
+- Add **new form field** on the **create-record.php** page for graduation_date. Make sure it's type is set to a date input.
+- Modify **Update Record** form to include new graduation_date field
+- Add new display table column to the **display-records.php** for new graduation_date table column
 - Add **Advanced Search** to the app navigation
 - Create an **Advanced Search Form** page and associated code
 - Polish entire UX
