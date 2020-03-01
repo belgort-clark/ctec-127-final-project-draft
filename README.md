@@ -1,8 +1,8 @@
-# CTEC 127 Winter 2019 - Final Project
+# CTEC 127 Winter 2020 - Final Project
 
-- The final project is due on **Tuesday, March 19th, 2019** by 10:00 AM. 
+- The final project is due on **Monday, March 16th, 2020** by 10:00 AM. 
 - Students will demo their work to the class.
-- Class starts at 10 AM on Tuesday, March 19th.
+- Class starts at 10 AM on Tuesday, March 16th.
 
 ## Items to be Implemented in the Record Manager Code that You Started with Project No. 3
 
@@ -13,9 +13,9 @@ Continue to modify the code base that you started with Project No. 3.
 - Modify **Update Record** form to include new field
 - Add new display table column to the **display-records.php** for new table column
 - Add **Advanced Search** to the app navigation
-- Crate an **Advanced Search Form** page and associated code
+- Create an **Advanced Search Form** page and associated code
 - Polish entire UX
-- Demos on Tuesday, March 19, 2019
+- Demos on Monday, March 16, 2020
 
 ## New Database Table Column
 
